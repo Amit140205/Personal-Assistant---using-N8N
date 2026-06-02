@@ -1,6 +1,6 @@
 # 🤝 n8n Personal Assistant
 
-A conversational AI-powered personal assistant built with **Streamlit** and **n8n** — chat to manage your calendar, emails, tasks, notes, and expenses.
+A conversational AI-powered personal assistant built with **Streamlit** and **n8n** — chat to manage your calendar, emails, tasks, notes, and expenses conveniently.
 
 ![n8n Workflow](assets/n8n_workflow.png)
 
